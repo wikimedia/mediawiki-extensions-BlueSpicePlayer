@@ -71,7 +71,7 @@ class ShowTimeHandler extends Handler {
 	 * Check if file exist
 	 */
 	private function initFileFromInput() {
-		$fileTitle = Title::newFromText( $this->processedInput, NS_FILE );
+		$fileTitle = Title::makeTitle( NS_FILE, $this->processedInput );
 		$this->file = $this->repoGroup->findFile( $fileTitle );
 		if ( $this->file instanceof  File === false ) {
 			throw new \MWException( 'bs-showtime-file-does-not-exist' );
