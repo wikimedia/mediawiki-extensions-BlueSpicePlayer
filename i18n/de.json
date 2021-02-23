@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"bs-showtime-extension-description": "Bindet einen Media Player auf einer Seite ein.",
+	"bs-showtime-desc": "Bindet einen Media Player auf einer Seite ein.",
+	"prefs-showtime": "Player",
+	"bs-showtime-pref-Autostart": "Video automatisch starten",
+	"bs-showtime-file-does-not-exist": "Datei existiert nicht.",
+	"bs-showtime-tag-showtime-desc": "Dieser Tag stellt die Funktionalität bereit, ein Video einzubinden.",
+	"bs-showtime-unsupported-type": "Dieser Dateityp wird nicht unterstützt.",
+	"bs-showtime-config-prefwidth": "Standardbreite von Videos",
+	"bs-showtime-config-prefheight": "Standardhöhe von Videos"
+}
