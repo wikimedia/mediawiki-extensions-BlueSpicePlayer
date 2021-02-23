@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"bs-showtime-extension-description": "Embed a media player on a page.",
+	"bs-showtime-desc": "Embed a media player on a page.",
+	"prefs-showtime": "Player",
+	"bs-showtime-pref-Autostart": "Start video automatically",
+	"bs-showtime-file-does-not-exist": "File does not exist.",
+	"bs-showtime-tag-showtime-desc": "This tag provides allows you to embedd a video.",
+	"bs-showtime-unsupported-type": "This file type is not supported.",
+	"bs-showtime-config-prefwidth": "Default width of videos",
+	"bs-showtime-config-prefheight": "Default height of videos"
+}

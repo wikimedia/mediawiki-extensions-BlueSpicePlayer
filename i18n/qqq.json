@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": []
+	},
+	"bs-showtime-extension-description": "Description of the extension",
+	"bs-showtime-desc": "Description of the extension",
+	"prefs-showtime": "Section heading for Player in the BlueSpice preferences",
+	"bs-showtime-pref-Autostart": "Label for autostart setting",
+	"bs-showtime-file-does-not-exist": "Error message shown instead of player when the embedded file does not exist",
+	"bs-showtime-tag-showtime-desc": "Description of the tag for insert magic",
+	"bs-showtime-unsupported-type": "Error message shown instead of player when the embedded file has an unsupported file type.",
+	"bs-showtime-config-prefwidth": "Description of a configuration variable that sets the default width for videos",
+	"bs-showtime-config-prefheight": "Description of a configuration variable that sets the default height for videos"
+}
