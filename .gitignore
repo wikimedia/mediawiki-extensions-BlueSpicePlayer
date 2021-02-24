@@ -1,4 +1,4 @@
 composer.lock
 .vscode
-vendor
+/vendor
 Thumbs.db
