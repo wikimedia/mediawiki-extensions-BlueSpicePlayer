@@ -8,7 +8,7 @@ class Autostart extends GetPreferences {
 	protected function doProcess() {
 		$this->preferences['bs-showtime-pref-autostart'] = [
 			'type' => 'check',
-			'label-message' => 'bs-showtime-pref-Autostart',
+			'label-message' => 'bs-player-pref-autostart',
 			'section' => 'rendering/showtime',
 		];
 		return true;
