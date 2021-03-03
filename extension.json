@@ -7,7 +7,7 @@
 		"Tobias Weichart",
 		"Markus Glaser"
 	],
-	"descriptionmsg": "bs-showtime-desc",
+	"descriptionmsg": "bs-player-extension-description",
 	"type": "bluespice",
 	"attributes": {
 		"BlueSpiceFoundation": {
@@ -50,15 +50,15 @@
 	"DefaultUserOptions": {
 		"bs-showtime-pref-autostart": false
 	},
-	"config_prefix": "bsgShowtime",
+	"config_prefix": "bsg",
 	"config": {
-		"PrefWidth": {
+		"ShowtimePrefWidth": {
 			"value":320,
-			"descriptionmsg": "bs-showtime-config-prefwidth"
+			"descriptionmsg": "bs-player-config-prefwidth"
 		},
-		"PrefHeight": {
+		"ShowtimePrefHeight": {
 			"value":240,
-			"descriptionmsg": "bs-showtime-config-prefheight"
+			"descriptionmsg": "bs-player-config-prefheight"
 		}
 	},
 	"Hooks": {

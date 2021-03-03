@@ -16,7 +16,7 @@ class AddDescription extends BSInsertMagicAjaxGetData {
 			'id' => 'showtime',
 			'type' => 'tag',
 			'name' => 'showtime',
-			'desc' => $this->getContext()->msg( 'bs-showtime-tag-showtime-desc' )->plain(),
+			'desc' => $this->getContext()->msg( 'bs-player-tag-showtime-desc' )->plain(),
 			'code' => '<bs:showtime width="320" height="240" >Placeholder.mp4</bs:showtime>',
 			'helplink' => 'https://en.wiki.bluespice.com/wiki/Reference:Player'
 		];
