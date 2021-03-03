@@ -74,7 +74,7 @@ class ShowTimeHandler extends Handler {
 		$fileTitle = Title::makeTitle( NS_FILE, $this->processedInput );
 		$this->file = $this->repoGroup->findFile( $fileTitle );
 		if ( $this->file instanceof  File === false ) {
-			throw new \MWException( 'bs-showtime-file-does-not-exist' );
+			throw new \MWException( 'bs-player-file-does-not-exist' );
 		}
 	}
 
@@ -84,7 +84,7 @@ class ShowTimeHandler extends Handler {
 	private function validateFileExtension() {
 		$lcFileExt = strtolower( $this->file->getExtension() );
 		if ( !in_array( $lcFileExt, $this->allowedFileExtensions ) ) {
-			throw new \MWException( 'bs-showtime-unsupported-type' );
+			throw new \MWException( 'bs-player-unsupported-type' );
 		}
 	}
 }
