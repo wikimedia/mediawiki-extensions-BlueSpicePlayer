@@ -8,5 +8,6 @@
 	"bs-player-tag-showtime-desc": "This tag allows you to embedd a video.",
 	"bs-player-unsupported-type": "This file type is not supported.",
 	"bs-player-config-prefwidth": "Default width of videos",
-	"bs-player-config-prefheight": "Default height of videos"
+	"bs-player-config-prefheight": "Default height of videos",
+	"prefs-videoplayer": "Video player"
 }
