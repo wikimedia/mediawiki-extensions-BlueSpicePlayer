@@ -9,7 +9,7 @@ class Autostart extends GetPreferences {
 		$this->preferences['bs-showtime-pref-autostart'] = [
 			'type' => 'check',
 			'label-message' => 'bs-player-pref-autostart',
-			'section' => 'rendering/showtime',
+			'section' => 'rendering/videoplayer',
 		];
 		return true;
 	}
