@@ -9,5 +9,6 @@
 	"bs-player-file-does-not-exist": "파일이 존재하지 않습니다.",
 	"bs-player-unsupported-type": "이 파일 형식은 지원되지 않습니다.",
 	"bs-player-config-prefwidth": "동영상 기본 너비",
-	"bs-player-config-prefheight": "동영상 기본 높이"
+	"bs-player-config-prefheight": "동영상 기본 높이",
+	"prefs-videoplayer": "비디오 플레이어"
 }
