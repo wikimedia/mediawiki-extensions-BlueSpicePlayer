@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Gebu",
 			"Wolfdietmann"
 		]
 	},
@@ -10,5 +11,6 @@
 	"bs-player-tag-showtime-desc": "Dieser Tag ermöglicht es, ein Video einzubinden.",
 	"bs-player-unsupported-type": "Dieser Dateityp wird nicht unterstützt.",
 	"bs-player-config-prefwidth": "Standardbreite von Videos",
-	"bs-player-config-prefheight": "Standardhöhe von Videos"
+	"bs-player-config-prefheight": "Standardhöhe von Videos",
+	"prefs-videoplayer": "Videoplayer"
 }
