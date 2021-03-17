@@ -10,5 +10,6 @@
 	"bs-player-tag-showtime-desc": "Esta etiqueta permite que você insira um vídeo.",
 	"bs-player-unsupported-type": "Este tipo de arquivo não é suportado.",
 	"bs-player-config-prefwidth": "Largura padrão de vídeos",
-	"bs-player-config-prefheight": "Altura padrão dos vídeos"
+	"bs-player-config-prefheight": "Altura padrão dos vídeos",
+	"prefs-videoplayer": "Reprodutor de vídeo"
 }
