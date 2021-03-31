@@ -4,5 +4,10 @@
 			"Hanna Tardos"
 		]
 	},
+	"bs-player-extension-description": "Médialejátszó beágyazása.",
+	"bs-player-pref-autostart": "Video automatikus lejátszása",
+	"bs-player-file-does-not-exist": "A fájl nem létezik.",
+	"bs-player-unsupported-type": "Ez a fájltípus nem támogatott.",
+	"bs-player-config-prefheight": "Videók alap magassága",
 	"prefs-videoplayer": "Videolejátszó"
 }

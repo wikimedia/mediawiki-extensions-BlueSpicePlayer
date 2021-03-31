@@ -10,5 +10,6 @@
 	"bs-player-tag-showtime-desc": "Denne taggen lar deg bygge inn en video.",
 	"bs-player-unsupported-type": "Denne filtypen støttes ikke.",
 	"bs-player-config-prefwidth": "Standard bredde for videoer",
-	"bs-player-config-prefheight": "Standard høyde for videoer"
+	"bs-player-config-prefheight": "Standard høyde for videoer",
+	"prefs-videoplayer": "Videospiller"
 }
