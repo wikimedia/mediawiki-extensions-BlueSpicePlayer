@@ -53,11 +53,11 @@
 	"config_prefix": "bsg",
 	"config": {
 		"ShowtimePrefWidth": {
-			"value":320,
+			"value": 320,
 			"descriptionmsg": "bs-player-config-prefwidth"
 		},
 		"ShowtimePrefHeight": {
-			"value":240,
+			"value": 240,
 			"descriptionmsg": "bs-player-config-prefheight"
 		}
 	},
