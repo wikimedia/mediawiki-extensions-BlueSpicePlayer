@@ -2,9 +2,9 @@
 
 namespace BlueSpice\Player\Tag;
 
+use BlueSpice\ParamProcessor\ParamDefinition;
 use BlueSpice\Tag\IHandler;
 use BlueSpice\Tag\Tag;
-use BlueSpice\ParamProcessor\ParamDefinition;
 use MediaWiki\MediaWikiServices;
 use RepoGroup;
 
@@ -26,8 +26,8 @@ class ShowTime extends Tag {
 	}
 
 	/**
-		* @return string[]
-		*/
+	 * @return string[]
+	 */
 	public function getTagNames() {
 		return [ 'showtime', 'bs:showtime' ];
 	}

@@ -1,11 +1,10 @@
 <?php
 
-
 namespace BlueSpice\Player\Tag;
 
 use BlueSpice\Tag\Handler;
-use Title;
 use File;
+use Title;
 
 class ShowTimeHandler extends Handler {
 
@@ -36,8 +35,8 @@ class ShowTimeHandler extends Handler {
 	}
 
 	/**
-		* @return string
-		*/
+	 * @return string
+	 */
 	public function handle() {
 		$this->initFileFromInput();
 		$this->validateFileExtension();
@@ -73,7 +72,7 @@ class ShowTimeHandler extends Handler {
 	private function initFileFromInput() {
 		$fileTitle = Title::makeTitle( NS_FILE, $this->processedInput );
 		$this->file = $this->repoGroup->findFile( $fileTitle );
-		if ( $this->file instanceof  File === false ) {
+		if ( $this->file instanceof File === false ) {
 			throw new \MWException( 'bs-player-file-does-not-exist' );
 		}
 	}
