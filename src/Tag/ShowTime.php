@@ -40,9 +40,14 @@ class ShowTime extends Tag {
 	 *
 	 * @return IHandler
 	 */
-	public function getHandler( $processedInput, array $processedArgs, \Parser $parser,
-																		\PPFrame $frame ) {
-		$repoGroup = RepoGroup::singleton();
+	public function getHandler( $processedInput, array $processedArgs, \Parser $parser, \PPFrame $frame ) {
+		$services = MediaWikiServices::getInstance();
+		if ( method_exists( $services, 'getRepoGroup' ) ) {
+			// MW 1.34+
+			$repoGroup = $services->getRepoGroup();
+		} else {
+			$repoGroup = RepoGroup::singleton();
+		}
 		return new ShowTimeHandler( $processedInput, $processedArgs, $parser, $frame, $repoGroup );
 	}
 
