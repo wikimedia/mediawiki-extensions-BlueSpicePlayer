@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"ZealousBlaze"
+		]
+	},
+	"bs-player-pref-autostart": "Iniciar video automáticamente",
+	"bs-player-file-does-not-exist": "El archivo no existe.",
+	"bs-player-tag-showtime-desc": "Esta etiqueta te permite insertar un video.",
+	"bs-player-unsupported-type": "No se admite este tipo de archivo.",
+	"bs-player-config-prefwidth": "Ancho predeterminado de los videos",
+	"bs-player-config-prefheight": "Altura predeterminada de los videos"
+}
