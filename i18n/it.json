@@ -2,6 +2,7 @@
 	"@metadata": {
 		"authors": [
 			"Sofia Stecchi",
+			"Stefano",
 			"Toa"
 		]
 	},
@@ -10,5 +11,6 @@
 	"bs-player-tag-showtime-desc": "Questo tag ti permette di incorporare un video.",
 	"bs-player-unsupported-type": "Questo tipo di file non è supportato.",
 	"bs-player-config-prefwidth": "Larghezza di default dei video",
-	"bs-player-config-prefheight": "Altezza di default dei video"
+	"bs-player-config-prefheight": "Altezza di default dei video",
+	"prefs-videoplayer": "Video player"
 }
