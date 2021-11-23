@@ -2,9 +2,11 @@
 	"@metadata": {
 		"authors": [
 			"Hmgrmb",
-			"Lakejason0"
+			"Lakejason0",
+			"落花有意12138"
 		]
 	},
+	"bs-player-extension-description": "在页面中嵌入媒体播放器。",
 	"bs-player-pref-autostart": "自动开始视频",
 	"bs-player-file-does-not-exist": "文件不存在。",
 	"bs-player-tag-showtime-desc": "这个标签允许你去嵌入视频。",
