@@ -65,7 +65,6 @@
 		}
 	},
 	"Hooks": {
-		"BSInsertMagicAjaxGetData": "\\BlueSpice\\Player\\Hook\\BSInsertMagicAjaxGetData\\AddDescription::callback",
 		"GetPreferences": "\\BlueSpice\\Player\\Hook\\GetPreferences\\Autostart::callback"
 	},
 	"manifest_version": 2
