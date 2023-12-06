@@ -3,7 +3,8 @@
 		"authors": [
 			"Kkairri",
 			"Shirayuki",
-			"Tamaki Wakita"
+			"Tamaki Wakita",
+			"もなー(偽物)"
 		]
 	},
 	"bs-player-pref-autostart": "自動で動画を再生",
@@ -12,5 +13,6 @@
 	"bs-player-unsupported-type": "このファイルの種類には対応していません。",
 	"bs-player-config-prefwidth": "動画の既定の幅",
 	"bs-player-config-prefheight": "動画の既定の高さ",
-	"prefs-videoplayer": "動画プレイヤー"
+	"prefs-videoplayer": "動画プレイヤー",
+	"bs-player-extension-description": "メディアプレーヤーをページに埋め込みます"
 }
