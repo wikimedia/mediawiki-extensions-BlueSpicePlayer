@@ -55,7 +55,7 @@ class ShowTime extends Tag {
 		return [
 			new ParamDefinition( 'integer', 'width', $defaultWidth ),
 			new ParamDefinition( 'integer', 'height', $defaultHeight ),
-			new ParamDefinition( 'boolean', 'autostart',  false ),
+			new ParamDefinition( 'boolean', 'autostart', false ),
 			new ParamDefinition( 'boolean', 'repeat', false )
 		];
 	}
