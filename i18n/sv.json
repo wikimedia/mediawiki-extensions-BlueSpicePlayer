@@ -1,14 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Sabelöga"
+			"Sabel\u00f6ga"
 		]
 	},
-	"bs-player-extension-description": "Bäddar in en mediespelare på en sida.",
+	"bs-player-extension-description": "B\u00e4ddar in en mediespelare p\u00e5 en sida.",
 	"bs-player-pref-autostart": "Starta automatiskt video",
 	"bs-player-file-does-not-exist": "Filen finns inte.",
-	"bs-player-tag-showtime-desc": "Taggen låter dig bädda in en video.",
-	"bs-player-unsupported-type": "Den här filtypen stöds inte.",
-	"bs-player-config-prefwidth": "Standardbredd för videor",
-	"bs-player-config-prefheight": "Standardhöjd för videor"
+	"bs-player-tag-showtime-desc": "Taggen l\u00e5ter dig b\u00e4dda in en video.",
+	"bs-player-unsupported-type": "Den h\u00e4r filtypen st\u00f6ds inte.",
+	"bs-player-config-prefwidth": "Standardbredd f\u00f6r videor",
+	"bs-player-config-prefheight": "Standardh\u00f6jd f\u00f6r videor"
 }

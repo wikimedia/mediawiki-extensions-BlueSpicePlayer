@@ -4,12 +4,12 @@
 			"Verdy p"
 		]
 	},
-	"bs-player-extension-description": "Permet d’encapsuler un lecteur de médias sur une page.",
-	"bs-player-pref-autostart": "Démarrer la vidéo automatiquement",
-	"bs-player-file-does-not-exist": "Le fichier n’existe pas.",
-	"bs-player-tag-showtime-desc": "Cette balise vous permet d’encapsuler une vidéo.",
-	"bs-player-unsupported-type": "Ce type de fichier n’est pas pris en charge.",
-	"bs-player-config-prefwidth": "Largeur par défaut des vidéos",
-	"bs-player-config-prefheight": "Hauteur par défaut des vidéos",
-	"prefs-videoplayer": "Lecteur vidéo"
+	"bs-player-extension-description": "Permet d\u2019encapsuler un lecteur de m\u00e9dias sur une page.",
+	"bs-player-pref-autostart": "D\u00e9marrer la vid\u00e9o automatiquement",
+	"bs-player-file-does-not-exist": "Le fichier n\u2019existe pas.",
+	"bs-player-tag-showtime-desc": "Cette balise vous permet d\u2019encapsuler une vid\u00e9o.",
+	"bs-player-unsupported-type": "Ce type de fichier n\u2019est pas pris en charge.",
+	"bs-player-config-prefwidth": "Largeur par d\u00e9faut des vid\u00e9os",
+	"bs-player-config-prefheight": "Hauteur par d\u00e9faut des vid\u00e9os",
+	"prefs-videoplayer": "Lecteur vid\u00e9o"
 }

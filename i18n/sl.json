@@ -7,9 +7,9 @@
 	"bs-player-extension-description": "Vdelajte na stran predstavnostni predvajalnik.",
 	"bs-player-pref-autostart": "Samodejni zagon videeoposnetkov",
 	"bs-player-file-does-not-exist": "Datoteka ne obstaja.",
-	"bs-player-tag-showtime-desc": "Ta značka vam omogoča vdelavo videoposnetka.",
+	"bs-player-tag-showtime-desc": "Ta zna\u010dka vam omogo\u010da vdelavo videoposnetka.",
 	"bs-player-unsupported-type": "Ta vrsta datotek ni podprta.",
-	"bs-player-config-prefwidth": "Privzeta širina videoposnetkov",
-	"bs-player-config-prefheight": "Privzeta višina videoposnetkov",
+	"bs-player-config-prefwidth": "Privzeta \u0161irina videoposnetkov",
+	"bs-player-config-prefheight": "Privzeta vi\u0161ina videoposnetkov",
 	"prefs-videoplayer": "Video predvajalnik"
 }
