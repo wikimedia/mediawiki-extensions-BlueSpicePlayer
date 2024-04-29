@@ -2,15 +2,15 @@
 	"@metadata": {
 		"authors": [
 			"Joseph",
-			"SaldırganSincap"
+			"Sald\u0131rganSincap"
 		]
 	},
-	"bs-player-extension-description": "Bir sayfaya ortam oynatıcı ekleyin.",
+	"bs-player-extension-description": "Bir sayfaya ortam oynat\u0131c\u0131 ekleyin.",
 	"bs-player-pref-autostart": "Videoyu otomatik oynat",
-	"bs-player-file-does-not-exist": "Dosya mevcut değil.",
-	"bs-player-tag-showtime-desc": "Bu etiket bir videoyu eklemenize sağlar.",
-	"bs-player-unsupported-type": "Bu dosya türü desteklenmiyor.",
-	"bs-player-config-prefwidth": "Videoların varsayılan genişliği",
-	"bs-player-config-prefheight": "Videoların varsayılan yüksekliği",
-	"prefs-videoplayer": "Video oynatıcı"
+	"bs-player-file-does-not-exist": "Dosya mevcut de\u011fil.",
+	"bs-player-tag-showtime-desc": "Bu etiket bir videoyu eklemenize sa\u011flar.",
+	"bs-player-unsupported-type": "Bu dosya t\u00fcr\u00fc desteklenmiyor.",
+	"bs-player-config-prefwidth": "Videolar\u0131n varsay\u0131lan geni\u015fli\u011fi",
+	"bs-player-config-prefheight": "Videolar\u0131n varsay\u0131lan y\u00fcksekli\u011fi",
+	"prefs-videoplayer": "Video oynat\u0131c\u0131"
 }
