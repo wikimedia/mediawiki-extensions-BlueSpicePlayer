@@ -4,12 +4,12 @@
 			"Hamilton Abreu"
 		]
 	},
-	"bs-player-extension-description": "Embutir um reprodutor multim\u00e9dia numa p\u00e1gina.",
-	"bs-player-pref-autostart": "Iniciar v\u00eddeo automaticamente",
-	"bs-player-file-does-not-exist": "O ficheiro n\u00e3o existe.",
-	"bs-player-tag-showtime-desc": "Esta etiqueta permite-lhe embutir um v\u00eddeo.",
-	"bs-player-unsupported-type": "Este tipo de ficheiro n\u00e3o \u00e9 suportado.",
-	"bs-player-config-prefwidth": "Largura padr\u00e3o dos v\u00eddeos",
-	"bs-player-config-prefheight": "Altura padr\u00e3o dos v\u00eddeos",
-	"prefs-videoplayer": "Reprodutor de v\u00eddeo"
+	"bs-player-extension-description": "Embutir um reprodutor multimédia numa página.",
+	"bs-player-pref-autostart": "Iniciar vídeo automaticamente",
+	"bs-player-file-does-not-exist": "O ficheiro não existe.",
+	"bs-player-tag-showtime-desc": "Esta etiqueta permite-lhe embutir um vídeo.",
+	"bs-player-unsupported-type": "Este tipo de ficheiro não é suportado.",
+	"bs-player-config-prefwidth": "Largura padrão dos vídeos",
+	"bs-player-config-prefheight": "Altura padrão dos vídeos",
+	"prefs-videoplayer": "Reprodutor de vídeo"
 }

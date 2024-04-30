@@ -4,11 +4,11 @@
 			"Jeeputer"
 		]
 	},
-	"bs-player-pref-autostart": "\u0622\u063a\u0627\u0632 \u062e\u0648\u062f\u06a9\u0627\u0631 \u067e\u062e\u0634 \u0648\u06cc\u062f\u0626\u0648",
-	"bs-player-file-does-not-exist": "\u067e\u0631\u0648\u0646\u062f\u0647 \u0645\u0648\u062c\u0648\u062f \u0646\u06cc\u0633\u062a.",
-	"bs-player-tag-showtime-desc": "\u0627\u06cc\u0646 \u0628\u0631\u0686\u0633\u0628 \u0628\u0647 \u0634\u0645\u0627 \u0627\u0645\u06a9\u0627\u0646 \u062f\u0631\u062c \u06cc\u06a9 \u0648\u06cc\u062f\u0626\u0648 \u0631\u0627 \u0645\u06cc\u200c\u062f\u0647\u062f.",
-	"bs-player-unsupported-type": "\u0646\u0648\u0639 \u067e\u0631\u0648\u0646\u062f\u0647 \u067e\u0634\u062a\u06cc\u0628\u0627\u0646\u06cc \u0646\u0645\u06cc\u200c\u0634\u0648\u062f.",
-	"bs-player-config-prefwidth": "\u0639\u0631\u0636 \u067e\u06cc\u0634\u200c\u0641\u0631\u0636 \u0648\u06cc\u062f\u0626\u0648\u0647\u0627",
-	"bs-player-config-prefheight": "\u0627\u0631\u062a\u0641\u0627\u0639 \u067e\u06cc\u0634\u200c\u0641\u0631\u0636 \u0648\u06cc\u062f\u0626\u0648\u0647\u0627",
-	"prefs-videoplayer": "\u067e\u062e\u0634\u200c\u06a9\u0646\u0646\u062f\u0647\u0654 \u0648\u06cc\u062f\u0626\u0648"
+	"bs-player-pref-autostart": "آغاز خودکار پخش ویدئو",
+	"bs-player-file-does-not-exist": "پرونده موجود نیست.",
+	"bs-player-tag-showtime-desc": "این برچسب به شما امکان درج یک ویدئو را می‌دهد.",
+	"bs-player-unsupported-type": "نوع پرونده پشتیبانی نمی‌شود.",
+	"bs-player-config-prefwidth": "عرض پیش‌فرض ویدئوها",
+	"bs-player-config-prefheight": "ارتفاع پیش‌فرض ویدئوها",
+	"prefs-videoplayer": "پخش‌کنندهٔ ویدئو"
 }

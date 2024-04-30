@@ -4,15 +4,15 @@
 			"Kkairri",
 			"Shirayuki",
 			"Tamaki Wakita",
-			"\u3082\u306a\u30fc(\u507d\u7269)"
+			"もなー(偽物)"
 		]
 	},
-	"bs-player-pref-autostart": "\u81ea\u52d5\u3067\u52d5\u753b\u3092\u518d\u751f",
-	"bs-player-file-does-not-exist": "\u30d5\u30a1\u30a4\u30eb\u304c\u5b58\u5728\u3057\u307e\u305b\u3093\u3002",
-	"bs-player-tag-showtime-desc": "\u3053\u306e\u30bf\u30b0\u3067\u52d5\u753b\u3092\u57cb\u3081\u8fbc\u3080\u3053\u3068\u304c\u3067\u304d\u307e\u3059",
-	"bs-player-unsupported-type": "\u3053\u306e\u30d5\u30a1\u30a4\u30eb\u306e\u7a2e\u985e\u306b\u306f\u5bfe\u5fdc\u3057\u3066\u3044\u307e\u305b\u3093\u3002",
-	"bs-player-config-prefwidth": "\u52d5\u753b\u306e\u65e2\u5b9a\u306e\u5e45",
-	"bs-player-config-prefheight": "\u52d5\u753b\u306e\u65e2\u5b9a\u306e\u9ad8\u3055",
-	"prefs-videoplayer": "\u52d5\u753b\u30d7\u30ec\u30a4\u30e4\u30fc",
-	"bs-player-extension-description": "\u30e1\u30c7\u30a3\u30a2\u30d7\u30ec\u30fc\u30e4\u30fc\u3092\u30da\u30fc\u30b8\u306b\u57cb\u3081\u8fbc\u307f\u307e\u3059"
+	"bs-player-pref-autostart": "自動で動画を再生",
+	"bs-player-file-does-not-exist": "ファイルが存在しません。",
+	"bs-player-tag-showtime-desc": "このタグで動画を埋め込むことができます",
+	"bs-player-unsupported-type": "このファイルの種類には対応していません。",
+	"bs-player-config-prefwidth": "動画の既定の幅",
+	"bs-player-config-prefheight": "動画の既定の高さ",
+	"prefs-videoplayer": "動画プレイヤー",
+	"bs-player-extension-description": "メディアプレーヤーをページに埋め込みます"
 }

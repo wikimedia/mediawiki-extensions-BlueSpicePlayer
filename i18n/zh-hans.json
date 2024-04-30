@@ -3,15 +3,15 @@
 		"authors": [
 			"Hmgrmb",
 			"Lakejason0",
-			"\u843d\u82b1\u6709\u610f12138"
+			"落花有意12138"
 		]
 	},
-	"bs-player-extension-description": "\u5728\u9875\u9762\u4e2d\u5d4c\u5165\u5a92\u4f53\u64ad\u653e\u5668\u3002",
-	"bs-player-pref-autostart": "\u81ea\u52a8\u5f00\u59cb\u89c6\u9891",
-	"bs-player-file-does-not-exist": "\u6587\u4ef6\u4e0d\u5b58\u5728\u3002",
-	"bs-player-tag-showtime-desc": "\u8fd9\u4e2a\u6807\u7b7e\u5141\u8bb8\u4f60\u53bb\u5d4c\u5165\u89c6\u9891\u3002",
-	"bs-player-unsupported-type": "\u4e0d\u652f\u6301\u6b64\u6587\u4ef6\u7c7b\u578b\u3002",
-	"bs-player-config-prefwidth": "\u89c6\u9891\u9ed8\u8ba4\u5bbd\u5ea6",
-	"bs-player-config-prefheight": "\u89c6\u9891\u9ed8\u8ba4\u9ad8\u5ea6",
-	"prefs-videoplayer": "\u89c6\u9891\u64ad\u653e\u5668"
+	"bs-player-extension-description": "在页面中嵌入媒体播放器。",
+	"bs-player-pref-autostart": "自动开始视频",
+	"bs-player-file-does-not-exist": "文件不存在。",
+	"bs-player-tag-showtime-desc": "这个标签允许你去嵌入视频。",
+	"bs-player-unsupported-type": "不支持此文件类型。",
+	"bs-player-config-prefwidth": "视频默认宽度",
+	"bs-player-config-prefheight": "视频默认高度",
+	"prefs-videoplayer": "视频播放器"
 }
