@@ -4,12 +4,12 @@
 			"Ykhwong"
 		]
 	},
-	"bs-player-extension-description": "\ud398\uc774\uc9c0\uc5d0 \ubbf8\ub514\uc5b4 \ud50c\ub808\uc774\uc5b4\ub97c \ucd94\uac00\ud569\ub2c8\ub2e4.",
-	"bs-player-pref-autostart": "\uc790\ub3d9\uc73c\ub85c \ub3d9\uc601\uc0c1 \uc2dc\uc791",
-	"bs-player-file-does-not-exist": "\ud30c\uc77c\uc774 \uc874\uc7ac\ud558\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
-	"bs-player-tag-showtime-desc": "\uc774 \ud0dc\uadf8\ub294 \ub3d9\uc601\uc0c1 \ucd94\uac00\ub97c \ud5c8\uc6a9\ud569\ub2c8\ub2e4.",
-	"bs-player-unsupported-type": "\uc774 \ud30c\uc77c \ud615\uc2dd\uc740 \uc9c0\uc6d0\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4.",
-	"bs-player-config-prefwidth": "\ub3d9\uc601\uc0c1 \uae30\ubcf8 \ub108\ube44",
-	"bs-player-config-prefheight": "\ub3d9\uc601\uc0c1 \uae30\ubcf8 \ub192\uc774",
-	"prefs-videoplayer": "\ube44\ub514\uc624 \ud50c\ub808\uc774\uc5b4"
+	"bs-player-extension-description": "페이지에 미디어 플레이어를 추가합니다.",
+	"bs-player-pref-autostart": "자동으로 동영상 시작",
+	"bs-player-file-does-not-exist": "파일이 존재하지 않습니다.",
+	"bs-player-tag-showtime-desc": "이 태그는 동영상 추가를 허용합니다.",
+	"bs-player-unsupported-type": "이 파일 형식은 지원되지 않습니다.",
+	"bs-player-config-prefwidth": "동영상 기본 너비",
+	"bs-player-config-prefheight": "동영상 기본 높이",
+	"prefs-videoplayer": "비디오 플레이어"
 }

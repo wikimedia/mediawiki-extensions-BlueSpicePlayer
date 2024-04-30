@@ -4,12 +4,12 @@
 			"Nokeoo"
 		]
 	},
-	"bs-player-extension-description": "\u012eterpkite medijos leistuv\u0105 \u012f puslap\u012f.",
-	"bs-player-pref-autostart": "Automati\u0161kai paleisti vaizdo \u012fra\u0161\u0105",
+	"bs-player-extension-description": "Įterpkite medijos leistuvą į puslapį.",
+	"bs-player-pref-autostart": "Automatiškai paleisti vaizdo įrašą",
 	"bs-player-file-does-not-exist": "Failas neegzistuoja.",
-	"bs-player-tag-showtime-desc": "\u0160i \u017eyma leid\u017eia \u012fterpti vaizdo \u012fra\u0161\u0105.",
-	"bs-player-unsupported-type": "\u0160is failo tipas nepalaikomas.",
-	"bs-player-config-prefwidth": "Numatytasis vaizdo \u012fra\u0161\u0173 plotis",
-	"bs-player-config-prefheight": "Numatytasis vaizdo \u012fra\u0161\u0173 auk\u0161tis",
+	"bs-player-tag-showtime-desc": "Ši žyma leidžia įterpti vaizdo įrašą.",
+	"bs-player-unsupported-type": "Šis failo tipas nepalaikomas.",
+	"bs-player-config-prefwidth": "Numatytasis vaizdo įrašų plotis",
+	"bs-player-config-prefheight": "Numatytasis vaizdo įrašų aukštis",
 	"prefs-videoplayer": "Vaizdo grotuvas"
 }
