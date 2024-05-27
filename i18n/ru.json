@@ -2,8 +2,13 @@
 	"@metadata": {
 		"authors": [
 			"DDPAT",
-			"Ice bulldog"
+			"Ice bulldog",
+			"Yurina Tatiana"
 		]
 	},
+	"bs-player-file-does-not-exist": "Файл не существует.",
+	"bs-player-unsupported-type": "Этот тип файла не поддерживается.",
+	"bs-player-config-prefwidth": "Ширина видео по умолчанию",
+	"bs-player-config-prefheight": "Высота видео по умолчанию",
 	"prefs-videoplayer": "Видеоплеер"
 }
