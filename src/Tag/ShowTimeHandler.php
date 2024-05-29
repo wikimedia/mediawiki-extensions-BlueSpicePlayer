@@ -18,6 +18,9 @@ class ShowTimeHandler extends Handler {
 	 */
 	private $repoGroup = null;
 
+	/**
+	 * @var array|string[]
+	 */
 	private $allowedFileExtensions = [ 'flv', 'mp4', 'ogv', 'ogg', 'webm' ];
 
 	/**
@@ -28,8 +31,13 @@ class ShowTimeHandler extends Handler {
 	 * @param \PPFrame $frame
 	 * @param \RepoGroup $repoGroup
 	 */
-	public function __construct( $processedInput, array $processedArgs, \Parser $parser,
-																		\PPFrame $frame, $repoGroup ) {
+	public function __construct(
+		$processedInput,
+		array $processedArgs,
+		\Parser $parser,
+		\PPFrame $frame,
+		$repoGroup
+	) {
 		parent::__construct( $processedInput, $processedArgs, $parser, $frame );
 		$this->repoGroup = $repoGroup;
 	}
@@ -66,7 +74,7 @@ class ShowTimeHandler extends Handler {
 		return $html;
 	}
 
-	/*
+	/**
 	 * Check if file exist
 	 */
 	private function initFileFromInput() {
@@ -77,7 +85,7 @@ class ShowTimeHandler extends Handler {
 		}
 	}
 
-	/*
+	/**
 	 * Validate Allowed file Extensions
 	 */
 	private function validateFileExtension() {
