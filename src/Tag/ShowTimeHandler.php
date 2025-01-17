@@ -4,7 +4,7 @@ namespace BlueSpice\Player\Tag;
 
 use BlueSpice\Tag\Handler;
 use File;
-use Title;
+use MediaWiki\Title\Title;
 
 class ShowTimeHandler extends Handler {
 
