@@ -5,12 +5,13 @@ namespace BlueSpice\Player\Tag;
 use BlueSpice\ParamProcessor\ParamDefinition;
 use BlueSpice\Tag\IHandler;
 use BlueSpice\Tag\Tag;
+use MediaWiki\Config\Config;
 use MediaWiki\MediaWikiServices;
 
 class ShowTime extends Tag {
 
 	/**
-	 * @var \Config
+	 * @var Config
 	 */
 	private $config = null;
 
