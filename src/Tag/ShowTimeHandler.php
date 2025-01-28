@@ -4,6 +4,7 @@ namespace BlueSpice\Player\Tag;
 
 use BlueSpice\Tag\Handler;
 use File;
+use MediaWiki\Html\Html;
 use MediaWiki\Title\Title;
 
 class ShowTimeHandler extends Handler {
@@ -56,20 +57,20 @@ class ShowTimeHandler extends Handler {
 		$attributes['loop'] = $this->processedArgs['repeat'];
 		$attributes['controls'] = true;
 
-		$html = \Html::openElement( 'div', [
+		$html = Html::openElement( 'div', [
 			'style' =>
 				"width: "
 				. $this->processedArgs['width'] .
 				"px;"
 		] );
 
-		$html .= \HTML::rawElement( 'video', $attributes,
-			\HTML::element( 'source', [
+		$html .= Html::rawElement( 'video', $attributes,
+			Html::element( 'source', [
 				"src" => $this->file->getViewURL( false ),
 				"type" => $this->file->getMimeType()
 			] )
 		);
-		$html .= \Html::closeElement( 'div' );
+		$html .= Html::closeElement( 'div' );
 
 		return $html;
 	}
