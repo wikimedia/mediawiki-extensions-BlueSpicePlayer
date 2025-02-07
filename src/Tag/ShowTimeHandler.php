@@ -5,6 +5,7 @@ namespace BlueSpice\Player\Tag;
 use BlueSpice\Tag\Handler;
 use File;
 use MediaWiki\Html\Html;
+use MediaWiki\Parser\Parser;
 use MediaWiki\Title\Title;
 
 class ShowTimeHandler extends Handler {
@@ -28,14 +29,14 @@ class ShowTimeHandler extends Handler {
 	 * ShowTimeHandler constructor.
 	 * @param string $processedInput
 	 * @param array $processedArgs
-	 * @param \Parser $parser
+	 * @param Parser $parser
 	 * @param \PPFrame $frame
 	 * @param \RepoGroup $repoGroup
 	 */
 	public function __construct(
 		$processedInput,
 		array $processedArgs,
-		\Parser $parser,
+		Parser $parser,
 		\PPFrame $frame,
 		$repoGroup
 	) {
