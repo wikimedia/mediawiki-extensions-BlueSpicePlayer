@@ -8,6 +8,7 @@ use BlueSpice\Tag\Tag;
 use MediaWiki\Config\Config;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Parser\Parser;
+use MediaWiki\Parser\PPFrame;
 
 class ShowTime extends Tag {
 
@@ -37,12 +38,12 @@ class ShowTime extends Tag {
 	 * @param mixed $processedInput
 	 * @param array $processedArgs
 	 * @param Parser $parser
-	 * @param \PPFrame $frame
+	 * @param PPFrame $frame
 	 *
 	 * @return IHandler
 	 */
 	public function getHandler( $processedInput, array $processedArgs, Parser $parser,
-		\PPFrame $frame ) {
+		PPFrame $frame ) {
 		$repoGroup = MediaWikiServices::getInstance()->getRepoGroup();
 		return new ShowTimeHandler( $processedInput, $processedArgs, $parser, $frame, $repoGroup );
 	}
