@@ -6,6 +6,7 @@ use BlueSpice\ParamProcessor\ParamDefinition;
 use BlueSpice\Tag\IHandler;
 use BlueSpice\Tag\Tag;
 use MediaWiki\Config\Config;
+use MediaWiki\Config\ConfigException;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Parser\Parser;
 use MediaWiki\Parser\PPFrame;
@@ -50,7 +51,7 @@ class ShowTime extends Tag {
 
 	/**
 	 * @return array|\BlueSpice\ParamProcessor\IParamDefinition[]
-	 * @throws \ConfigException
+	 * @throws ConfigException
 	 */
 	public function getArgsDefinitions() {
 		$defaultWidth = $this->config->get( 'ShowtimePrefWidth' );
