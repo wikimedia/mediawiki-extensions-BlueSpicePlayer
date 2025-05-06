@@ -1,6 +1,4 @@
-composer.lock
-.vscode
+/composer.lock
 /vendor
-Thumbs.db
 /node_modules
-/.eslintcache
+.eslintcache
