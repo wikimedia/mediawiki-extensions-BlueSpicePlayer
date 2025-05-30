@@ -20,9 +20,6 @@
 					"extPath": "/BlueSpicePlayer",
 					"package": "BlueSpice Pro"
 				}
-			},
-			"TagRegistry": {
-				"showtime": "BlueSpice\\Player\\Tag\\ShowTime"
 			}
 		}
 	},
@@ -60,6 +57,15 @@
 			"value": 240,
 			"descriptionmsg": "bs-player-config-prefheight"
 		}
+	},
+	"HookHandlers": {
+		"registerTags": {
+			"class": "\\BlueSpice\\Player\\Hook\\RegisterTags",
+			"services": [ "ConfigFactory" ]
+		}
+	},
+	"Hooks": {
+		"MWStakeGenericTagHandlerInitTags": "registerTags"
 	},
 	"manifest_version": 2
 }
