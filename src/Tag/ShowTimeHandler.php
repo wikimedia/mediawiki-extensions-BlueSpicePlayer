@@ -54,10 +54,18 @@ class ShowTimeHandler extends Handler {
 
 		$attributes = [];
 		$attributes['class'] = 'bs-video';
-		$attributes['autoplay'] = $this->processedArgs['autostart'];
 		$attributes['style'] = "height:" . $this->processedArgs['height'] . "px;";
-		$attributes['loop'] = $this->processedArgs['repeat'];
-		$attributes['controls'] = true;
+		// We are not using native HTML5 attributes like 'autoplay' and 'loop'
+		// because the browser would start playing the video before the javascript
+		// player and its controls are ready.
+		$playrOptions = [
+			'autoplay' => $this->processedArgs['autostart'],
+			'muted' => $this->processedArgs['autostart'],
+			'loop' => [
+				'active' => $this->processedArgs['repeat']
+			]
+		];
+		$attributes['data-plyr-config'] = json_encode( $playrOptions );
 
 		$html = Html::openElement( 'div', [
 			'style' =>
