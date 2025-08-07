@@ -6,7 +6,6 @@
 		]
 	},
 	"bs-player-extension-description": "Bindet einen Media Player auf einer Seite ein.",
-	"bs-player-pref-autostart": "Video automatisch starten",
 	"bs-player-file-does-not-exist": "Datei existiert nicht.",
 	"bs-player-unsupported-type": "Dieser Dateityp wird nicht unterstützt.",
 	"bs-player-config-prefwidth": "Standardbreite von Videos",

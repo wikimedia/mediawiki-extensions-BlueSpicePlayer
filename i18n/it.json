@@ -6,7 +6,6 @@
 			"Toa"
 		]
 	},
-	"bs-player-pref-autostart": "Comincia video automaticamente",
 	"bs-player-file-does-not-exist": "Il file non esiste.",
 	"bs-player-unsupported-type": "Questo tipo di file non è supportato.",
 	"bs-player-config-prefwidth": "Larghezza di default dei video",

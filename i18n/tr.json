@@ -6,7 +6,6 @@
 		]
 	},
 	"bs-player-extension-description": "Bir sayfaya ortam oynatıcı ekleyin.",
-	"bs-player-pref-autostart": "Videoyu otomatik oynat",
 	"bs-player-file-does-not-exist": "Dosya mevcut değil.",
 	"bs-player-unsupported-type": "Bu dosya türü desteklenmiyor.",
 	"bs-player-config-prefwidth": "Videoların varsayılan genişliği",

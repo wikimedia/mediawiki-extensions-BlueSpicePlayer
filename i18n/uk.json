@@ -6,7 +6,6 @@
 		]
 	},
 	"bs-player-extension-description": "Вбудуйте медіаплеєр на сторінку.",
-	"bs-player-pref-autostart": "Розпочати відео автоматично",
 	"bs-player-file-does-not-exist": "Файл не існує.",
 	"bs-player-unsupported-type": "Цей тип файлу не підтримується.",
 	"bs-player-config-prefwidth": "Ширина відео за замовчуванням",
