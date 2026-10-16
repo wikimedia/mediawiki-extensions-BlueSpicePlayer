@@ -1,0 +1,13 @@
+{
+	"@metadata": {
+		"authors": [
+			"شاه زمان پټان"
+		]
+	},
+	"bs-player-extension-description": "په يو مخ کې د رسنۍ غږوونکی ځای‌پرځای‌کول",
+	"bs-player-file-does-not-exist": "دوتنه شتون نلري.",
+	"bs-player-unsupported-type": "د دوتنې دا ډول نه ملاتړ کېږي.",
+	"bs-player-config-prefwidth": "د ويډيوگانو تلواله پراخوالی",
+	"bs-player-config-prefheight": "د ويډيوگانو تلواله جگوالی",
+	"prefs-videoplayer": "ويډيو غږوونکی"
+}

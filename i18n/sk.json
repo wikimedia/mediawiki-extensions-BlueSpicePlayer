@@ -2,8 +2,14 @@
 	"@metadata": {
 		"authors": [
 			"Dušan Kreheľ",
+			"Wizzard",
 			"Yardom78"
 		]
 	},
-	"prefs-videoplayer": "Video prehrávač"
+	"prefs-videoplayer": "Video prehrávač",
+	"bs-player-extension-description": "Vloží na stránku prehrávač médií.",
+	"bs-player-file-does-not-exist": "Súbor neexistuje.",
+	"bs-player-unsupported-type": "Tento typ súboru nie je podporovaný.",
+	"bs-player-config-prefwidth": "Predvolená šírka videí",
+	"bs-player-config-prefheight": "Predvolená výška videí"
 }
