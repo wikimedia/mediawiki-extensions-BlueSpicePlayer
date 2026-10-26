@@ -4,6 +4,7 @@ namespace BlueSpice\Player\Tag;
 
 use File;
 use MediaWiki\Context\RequestContext;
+use MediaWiki\FileRepo\RepoGroup;
 use MediaWiki\Html\Html;
 use MediaWiki\Message\Message;
 use MediaWiki\Parser\Parser;
@@ -11,7 +12,6 @@ use MediaWiki\Parser\PPFrame;
 use MediaWiki\Title\TitleFactory;
 use MWStake\MediaWiki\Component\GenericTagHandler\ITagHandler;
 use OOUI\MessageWidget;
-use RepoGroup;
 use RuntimeException;
 
 class ShowtimeHandler implements ITagHandler {
