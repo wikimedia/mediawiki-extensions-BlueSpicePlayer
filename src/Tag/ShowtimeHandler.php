@@ -2,8 +2,8 @@
 
 namespace BlueSpice\Player\Tag;
 
-use File;
 use MediaWiki\Context\RequestContext;
+use MediaWiki\FileRepo\File\File;
 use MediaWiki\FileRepo\RepoGroup;
 use MediaWiki\Html\Html;
 use MediaWiki\Message\Message;
